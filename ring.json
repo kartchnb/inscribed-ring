@@ -1,0 +1,21 @@
+{
+    "parameterSets": {
+        "The One Ring": {
+            "Draft_Quality_Value": "16",
+            "Final_Quality_Value": "64",
+            "Inscription": "INSCRIPTION",
+            "Inscription_Depth": "0.501",
+            "Inscription_File": "images\/one_ring_inscription.svg",
+            "Inscription_Font": "Arial",
+            "Inscription_Horizontal_Stretch_Factor": "75",
+            "Inscription_Vertical_Stretch_Factor": "100",
+            "Iota": "0.001",
+            "Ring_Expansion_Factor": "50",
+            "Ring_Facets": "0",
+            "Ring_Height": "8.001",
+            "Ring_Inside_Diameter": "22.001",
+            "Ring_Thickness": "2.001"
+        }
+    },
+    "fileFormatVersion": "1"
+}
